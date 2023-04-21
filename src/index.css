@@ -51,7 +51,7 @@ h5 {
 }
 
 .categories button.selected {
-  background: pink;
+  background: rgb(232, 146, 161);
 }
 
 .categories button:hover {
@@ -69,7 +69,7 @@ h5 {
 
 .tasks {
   border-radius: 0.5rem;
-  border: grey solid 0.1rem;
+  border: rgb(87, 83, 83) solid 0.1rem;
   border-top: none;
   padding: 0 1rem;
   padding-bottom: 1rem;
@@ -101,7 +101,7 @@ h5 {
 
 .tasks .task .label {
   background: lightcyan;
-  color: blue;
+  color: rgb(44, 44, 246);
   padding: 0.25rem;
   font-size: 0.75rem;
   border: solid #cbcbff 0.15rem;
@@ -113,7 +113,7 @@ h5 {
   margin-left: auto;
   border-radius: 0.5rem;
   background: #ffe9ed;
-  color: #ff7d7d;
+  color: #e23e3e;
   font-weight: bolder;
   font-size: 1rem;
   border: solid #ffb1b1 0.1rem;
